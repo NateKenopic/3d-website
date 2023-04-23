@@ -33,12 +33,6 @@ nav a {
     font-size: 1.7rem;
 }
 
-nav ul {
-    list-style: none;
-    display: flex;
-    gap: 4rem;
-}
-
 .title {
     color: white;
     z-index: 2;
